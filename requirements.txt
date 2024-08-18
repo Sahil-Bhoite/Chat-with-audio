@@ -1,0 +1,7 @@
+
+streamlit
+speechrecognition
+langchain
+langchain_community
+faiss-cpu
+google-cloud-api-client
