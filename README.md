@@ -22,8 +22,8 @@ This application allows you to interact with audio files by transcribing them an
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/yourusername/chat-with-audio.git
+   ```bash[
+   git clone ](https://github.com/Sahil-Bhoite/Chat-with-audio)
    cd chat-with-audio
    ```
 
